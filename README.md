@@ -24,6 +24,8 @@ This framework generates detailed *Cucumber HTML Reports* after execution. It pr
 
  # View my Cucumber Report at: https://reports.cucumber.io/reports/77181a92-dc5e-4dc2-b3c6-52ed30d3d8ff
 
+<img width="1600" height="542" alt="cucumber-report" src="https://github.com/user-attachments/assets/292ef1ba-e5ef-431b-8465-30f90f8c8f11" />
+
 
 
 
