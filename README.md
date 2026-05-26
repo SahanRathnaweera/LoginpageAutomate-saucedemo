@@ -1,6 +1,6 @@
 # SauceDemo Login Automation #
 
-This is a Behavior-Driven Development (BDD) automation framework built using *Java, **Selenium WebDriver, and **Cucumber* to test the login functionality of the SauceDemo website.
+This is a Behavior-Driven Development (BDD) automation framework built using Java, Selenium WebDriver, and Cucumber to test the login functionality of the SauceDemo website.
 
 ## Tech Stack Used: ##
 - Language: Java (JDK 24)
